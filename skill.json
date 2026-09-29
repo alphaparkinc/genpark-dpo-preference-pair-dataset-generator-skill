@@ -1,0 +1,20 @@
+{
+  "name": "genpark-dpo-preference-pair-dataset-generator-skill",
+  "version": "1.0.0",
+  "description": "Direct Preference Optimization (DPO) and RLHF dataset constructor pairing prompt, chosen, and rejected responses",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "dpo-dataset",
+    "rlhf-preference",
+    "preference-pairs",
+    "data-synthesis",
+    "reward-modeling",
+    "python-standard-library",
+    "agent-skills",
+    "alignment",
+    "dataset-prep",
+    "developer-tools"
+  ]
+}
